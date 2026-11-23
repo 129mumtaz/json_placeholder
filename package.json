@@ -1,0 +1,9 @@
+{
+  "name": "json_placehlder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flutter Web application for JSONPlaceholder API",
+  "scripts": {
+    "build": "bash vercel-build.sh"
+  }
+}
